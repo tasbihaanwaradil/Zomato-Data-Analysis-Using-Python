@@ -22,7 +22,8 @@ Using Python (Pandas, NumPy, Matplotlib, Seaborn), I performed data cleaning, pr
 ## Exploratory Data Analysis (EDA)
 
 ### Restaurant Category Distribution
-<img width="288" height="232" alt="Category Distribution" src="https://github.com/user-attachments/assets/5aff9497-cc2c-4626-a3f8-f0335c2a1bc4" />  
+<img width="288" height="232" alt="Category Distribution" src="https://github.com/user-attachments/assets/5aff9497-cc2c-4626-a3f8-f0335c2a1bc4" /> 
+
 **Insight:** Most restaurants fall under the **Dining** category.  
 
 ### Votes by Restaurant Type
